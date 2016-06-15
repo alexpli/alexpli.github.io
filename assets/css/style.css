@@ -1,0 +1,224 @@
+*{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+body {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 auto;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: 600;
+}
+h1 {
+    font-size: 66px;
+    line-height: 72px;
+    margin-top: 48px;
+    margin-bottom: 24px;
+}
+h2 {
+  font-size: 26px;
+  line-height: 48px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+p, ul, ol, pre, table, blockquote {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+a{
+  color: #7cb342;
+    text-decoration: none;
+    outline: none;
+}
+a:hover, a:visited, a:focus, a:active{
+    text-decoration: none;
+    outline: none;
+}
+
+a:hover{
+  color: #9ccc65;
+}
+
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.hover-animate{
+    cursor: pointer;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.social ul{
+    padding: 0;
+    margin: 12px 0;
+}
+.social li{
+    display: inline-block;
+    list-style: none;
+}
+.ukie-icons {
+    display: inline-block;
+    font-size: 16px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    margin: 0px 7px 7px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+}
+.ukie-icons:first-child{
+    margin-left: 0px;
+}
+.ukie-icons:hover{
+}
+
+.border-bottom{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.padding-block{
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+#wraper{
+    border-width: 1px;
+    border-style: solid;
+    margin: 50px auto;
+    width: 1230px;
+}
+
+.home-header .title{
+    margin-bottom: 0;
+    font-size: 60px;
+}
+.home-header .sub-title{
+    font-weight: 300;
+    margin: 0;
+    line-height: 34px;
+}
+.home-header  .full-length-photo{
+    margin-top: 24px;
+}
+
+.small-menu{
+    margin: 125px 0 40px;
+    position: relative;
+}
+
+.footer{
+    line-height: 36px;
+    padding: 17px 0;
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+.footer a{
+}
+.footer .ukie-icons{
+}
+.footer a:hover{
+}
+.footer a:hover .ukie-icons{
+}
+
+body {
+    color: #000000;
+    background-color: #f5f5f5;
+}
+.ukie-icons {
+    color: #ffffff;
+    border-color: #7cb342;
+    background-color: #9ccc65;
+}
+.ukie-icons:hover{
+    background-color: #7cb342;
+    color: #ffffff;
+}
+
+.border-bottom{
+    border-bottom-color: #ededed;
+}
+
+#wraper{
+    border-color: #c6c6c6;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+}
+
+.footer{
+    border-top-color: #C6C6C6;
+}
+.footer a{
+    color: #000000;
+}
+.footer .ukie-icons{
+    border-color: #d6d6d6;
+    background-color: #f5f5f5;
+    color: #d6d6d6;
+}
+.footer a:hover{
+    color: #9ccc65;
+}
+.footer a:hover .ukie-icons{
+    border-color: #7cb342;
+    background-color: #9ccc65;
+    color: #ffffff;
+}
+
+@media (max-width: 1230px) {
+    #wraper{
+        width: 100%;
+    }
+}
+
+@media (max-width: 991px) {
+    .row{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .footer .col-sm-6{
+        text-align: left;
+        margin: 5px 0;
+    }
+    .col-xs-12, .col-sm-12{
+        margin-bottom: 30px;
+    }
+    .col-xs-12:last-child, .col-sm-12:last-child{
+        margin-bottom: 0px;
+    }
+}
+
+@media (max-width: 768px) {
+    #wraper{
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .home-header{
+        text-align: center;
+    }
+    .home-header .title{
+        margin-top: 0px;
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .home-header .sub-title {
+        line-height: 28px;
+        font-size: 20px;
+    }
+    .footer .col-sm-6, .footer .col-xs-12{
+        text-align: center;
+    }
+}

@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/alexpli
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://plisson.xyz
+  * I am alexpli (https://keybase.io/alexpli) on keybase.
+  * I have a public key ASAUMSQLNZYXIYABJgGhYJYI54qZZVnX3EnU2iNLAbQxsAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101921165c0ef589ffbcf236b2d2852e54a915bb4224c82f0c950b14a98ae32b15c0a",
+            "host": "keybase.io",
+            "kid": "01201431240b3596172180012601a1609608e78a996559d7dc49d4da234b01b431b00a",
+            "uid": "9f9a3487e01dbc64d56f9c85eb00d519",
+            "username": "alexpli"
+        },
+        "service": {
+            "hostname": "plisson.xyz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.13"
+    },
+    "ctime": 1456691307,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1456691267,
+        "hash": "aae3d8a9240c66f997b3be140601c3746408d1000e090804b225137f1e3d409bb39c5bd435621afac4b77e6b5ff32363fe952fa1bc1d5ce658e57cd1f2916bdb",
+        "seqno": 397207
+    },
+    "prev": "ae029766fbe896dcb0946d7dd221b408d1de3bfc48bce21bbb214f4cf21801d4",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFDEkCzWWFyGAASYBoWCWCOeKmWVZ19xJ1NojSwG0MbAKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOTIxMTY1YzBlZjU4OWZmYmNmMjM2YjJkMjg1MmU1NGE5MTViYjQyMjRjODJmMGM5NTBiMTRhOThhZTMyYjE1YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTQzMTI0MGIzNTk2MTcyMTgwMDEyNjAxYTE2MDk2MDhlNzhhOTk2NTU5ZDdkYzQ5ZDRkYTIzNGIwMWI0MzFiMDBhIiwidWlkIjoiOWY5YTM0ODdlMDFkYmM2NGQ1NmY5Yzg1ZWIwMGQ1MTkiLCJ1c2VybmFtZSI6ImFsZXhwbGkifSwic2VydmljZSI6eyJob3N0bmFtZSI6InBsaXNzb24ueHl6IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTMifSwiY3RpbWUiOjE0NTY2OTEzMDcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1NjY5MTI2NywiaGFzaCI6ImFhZTNkOGE5MjQwYzY2Zjk5N2IzYmUxNDA2MDFjMzc0NjQwOGQxMDAwZTA5MDgwNGIyMjUxMzdmMWUzZDQwOWJiMzljNWJkNDM1NjIxYWZhYzRiNzdlNmI1ZmYzMjM2M2ZlOTUyZmExYmMxZDVjZTY1OGU1N2NkMWYyOTE2YmRiIiwic2Vxbm8iOjM5NzIwN30sInByZXYiOiJhZTAyOTc2NmZiZTg5NmRjYjA5NDZkN2RkMjIxYjQwOGQxZGUzYmZjNDhiY2UyMWJiYjIxNGY0Y2YyMTgwMWQ0Iiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAqV8YEV1oNgA1EqCY0Sgz1NYOuubvht0azABd056cpmca8tNIfUM2T2XZBOVBFoOV4b5f6tdkMeSxD3Sb/lODDahzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexpli
+
+==================================================================
